@@ -12,6 +12,10 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
 #
 ##################################################################################################################
+# change a commit comment
+# git commit --amend -m "more info"
+# git push --force origin
+
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
