@@ -1,6 +1,7 @@
 #!/bin/bash
 #carli
-sudo chown -R root:root airootfs/
+sudo chown -R root airootfs/
+sudo chgrp -R root airootfs/
 
 set -e -u
 
